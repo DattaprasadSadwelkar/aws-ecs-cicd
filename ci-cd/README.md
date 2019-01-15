@@ -12,7 +12,7 @@ Deployment steps:
     1. Click *Generate token*
     1. Make sure to copy your new personal access token now. You won’t be able to see it again!
 1. Fork https://github.com/ibuchh/ecs-php-demo into your own Github account.
-1. Clone your fork locally: `git clone https://github.com/<your_github_username>/ecs-demo-php-demo`
+1. Clone your fork locally: `git clone https://github.com/<your_github_username>/ecs-php-demo`
 1. Deploy CloudFormation template (`cf.yaml`).
     1. Use `us-east-1` or 'us-west-2'if you would like Fargate capability.
     1. Use the Github access token generated in Step 1.
