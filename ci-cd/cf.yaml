@@ -42,7 +42,7 @@ Parameters:
 
   GitHubRepo:
     Type: String
-    Default: ecs-demo-php-simple-app
+    Default: ecs-php-demo
     Description: The repo name of the sample service.
 
   GitHubBranch:
