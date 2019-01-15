@@ -14,7 +14,7 @@ Deployment steps:
 1. Fork https://github.com/ibuchh/ecs-php-demo into your own Github account.
 1. Clone your fork locally: `git clone https://github.com/<your_github_username>/ecs-php-demo`
 1. Deploy CloudFormation template (`cf.yaml`).
-    1. Use `us-east-1` or 'us-west-2'if you would like Fargate capability.
+    1. Use `us-east-1` or `us-west-2` if you would like Fargate capability.
     1. Use the Github access token generated in Step 1.
 1. Browse Load Balancer's public DNS name to view initial version
 1. Commit change
